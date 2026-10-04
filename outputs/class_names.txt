@@ -1,0 +1,51 @@
+01. Ayam Betutu
+02. Beberuk Terong
+03. Coto Makassar
+04. Gudeg
+05. Kerak Telor
+06. Mie Aceh
+07. Nasi Kuning
+08. Nasi Pecel
+09. Papeda
+10. Pempek
+11. Peuyeum
+12. Rawon
+13. Rendang
+14. Sate Madura
+15. Serabi
+16. Soto Banjar
+17. Soto Lamongan
+18. Tahu Sumedang
+19. Madu
+20. Capcay
+21. Combro
+22. Gaplek
+23. Ikan Bawal
+24. Jagung Rebus
+25. Kacang Tanah
+26. Mie Goreng
+27. Lawar Babi
+28. Empal Goreng
+29. Kangkung Tumis
+30. Karedok Sayur
+31. Bubur Sagu
+32. Abon
+33. Bacang
+34. Bakso
+35. Bayam
+36. Brem
+37. Cumi - Cumi Goreng
+38. Es Mambo
+39. Keju
+40. Kue Putu
+41. Martabak Manis
+42. Nasi Goreng
+43. Oncom
+44. Rebung
+45. Risoles
+46. Sayur Asem
+47. Tapai Ketan
+48. Tekwan
+49. Tempe Goreng
+50. Ubi Cilembu
+51. Wingko Babat

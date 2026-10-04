@@ -1,0 +1,15 @@
+{
+  "filename": "53cfe1d7-eb5e-46dc-b7fd-de29ea3a290e_lg_sq.jpg",
+  "predicted_label": "25. Kacang Tanah",
+  "confidence": 0.993624210357666,
+  "display_name": "Kacang Tanah",
+  "nutrition": {
+    "calories": 600.0,
+    "protein": 14.0,
+    "fat": 41.7,
+    "carbohydrate": 42.0
+  },
+  "nutrition_status": "ok",
+  "nutrition_match_source": "fuzzy:noga kacang tanah",
+  "crop_mode": "Auto"
+}
